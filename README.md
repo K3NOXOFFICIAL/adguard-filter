@@ -49,12 +49,14 @@ For learning sorted in order from what to do first and what last.
 
 - https://www.codecademy.com/learn/react-101
 
-6. ### React Website Creation Video Course
+6. ### W3schools React Course (Interactive)
+
+- https://www.w3schools.com/REACT/default.asp
+
+7. ### React Website Creation Video Course
 
 - https://scrimba.com/learn/learnreact
 
-7. ### W3schools React Course (Interactive)
 
-- https://www.w3schools.com/REACT/default.asp
 
 
