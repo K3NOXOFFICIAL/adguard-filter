@@ -4,3 +4,326 @@
 ||data.ads.oppomobile.com^
 ||adtago.s3.amazonaws.com^
 ||ads-api.twitter.com^
+9anime.vc###main-content > div.mba-block:nth-child(4)
+9anime.vc###header > div.container > div.header-group:nth-child(4)
+9anime.vc###main-content > section.block_area.block_area-comment:nth-child(6)
+9anime.vc###footer > div.container > div.footer-content:last-child > div.footer-copyright.float-left:first-child
+9anime.vc###footer > div.container > div.footer-az:nth-child(3)
+9anime.vc###main-sidebar > section.block_area.block_area_sidebar.block_area-realtime:last-child
+9anime.vc###wrapper > div.prebreadcrumb:nth-child(3)
+9anime.vc###footer
+9anime.vc###watch-block > div.player-controls:last-child
+
+beta.crunchyroll.com###content > div > div:last-child > div.erc-footer > div:first-child > div.c-content-wrapper > div.footer-top-wrapper > div.sections > div.erc-footer-section:nth-child(2)
+beta.crunchyroll.com###content > div > div:last-child > div.erc-footer
+beta.crunchyroll.com###content > div > div.erc-header:first-child > div.header-content:first-child > div.header-left:nth-child(2) > div.state-visible-on-desktop:last-child
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > nav:first-child
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > div.movie-info.mt-5:last-child > div:nth-child(2) > div.actions.font-extralight.pt-2.-mb-3.relative.text-gray-300.text-xs.text-center:first-child > div.mr-1.my-1.border.border-gray-500.cursor-pointer.hover\:opacity-100.inline-flex.items-center.opacity-75.px-2.py-1.rounded-sm.space-x-1:nth-child(4)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > div.movie-info.mt-5:last-child > div:nth-child(2) > div.actions.font-extralight.pt-2.-mb-3.relative.text-gray-300.text-xs.text-center:first-child > div.mr-1.my-1.border.border-gray-500.cursor-pointer.hover\:opacity-100.inline-flex.items-center.opacity-75.px-2.py-1.rounded-sm.space-x-1:nth-child(2)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > div.movie-info.mt-5:last-child > div:nth-child(2) > div.actions.font-extralight.pt-2.-mb-3.relative.text-gray-300.text-xs.text-center:first-child > div.mr-1.my-1.lg\:mr-0.right-0.border.border-gray-500.cursor-pointer.hover\:opacity-100.inline-flex.items-center.opacity-75.px-2.py-1.rounded-sm.space-x-1:last-child
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-2 > div.cursor-pointer.bg-gray-800.mt-3.px-5.py-2.rounded.text-green-200.hover\:text-green-300.font-light.animate-blinking:nth-child(3)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-2 > div.bg-gray-1000.rounded.p-5.mt-3:nth-child(4)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0:first-child > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-2 > section.bg-gray-1000.rounded.p-5.mt-3:last-child
+hdfilme.cx##footer.bg-black.bg-opacity-50.py-10.border-t.border-b.border-gray-800:nth-child(5) > div.max-w-7xl.mx-auto
+hdfilme.cx##footer.bg-black.bg-opacity-50.py-10.border-t.border-b.border-gray-800:nth-child(5)
+
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-2 > div.bg-gray-1000.rounded.p-5.mt-3:nth-child(6)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > aside.lg\:pl-3.lg\:w-72.sidebar.w-full.xl\:pl-4.xl\:w-80.flex-none:last-child > section.top-filme.sidebar-section:last-child
+hdfilme.cx##header:nth-child(3) > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.flex-1.flex.items-center.justify-center.sm\:items-stretch.sm\:justify-start:nth-child(2) > div.hidden.sm\:block.absolute.sm\:relative.bg-black.sm\:bg-transparent.sm\:ml-4.mt-16.sm\:mt-0.top-0.w-screen.sm\:w-auto.z-30:last-child > div.sm\:flex.items-center > div.cursor-pointer.flex.sm\:hidden.lg\:flex.text-white.hover\:bg-gray-800.items-center.h-16.px-5.sm\:px-2.py-2.text-sm.font-semibold:nth-child(7)
+hdfilme.cx##header:nth-child(3) > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.flex-1.flex.items-center.justify-center.sm\:items-stretch.sm\:justify-start:nth-child(2) > div.hidden.sm\:block.absolute.sm\:relative.bg-black.sm\:bg-transparent.sm\:ml-4.mt-16.sm\:mt-0.top-0.w-screen.sm\:w-auto.z-30:last-child > div.sm\:flex.items-center > a.flex.sm\:hidden.lg\:flex.text-white.hover\:bg-gray-800.items-center.h-16.px-5.sm\:px-2.py-2.text-sm.font-semibold:nth-child(6)
+hdfilme.cx##header:nth-child(3) > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.flex-1.flex.items-center.justify-center.sm\:items-stretch.sm\:justify-start:nth-child(2) > div.hidden.sm\:block.absolute.sm\:relative.bg-black.sm\:bg-transparent.sm\:ml-4.mt-16.sm\:mt-0.top-0.w-screen.sm\:w-auto.z-30:last-child > div.sm\:flex.items-center > a.flex.sm\:hidden.lg\:flex.text-white.hover\:bg-gray-800.items-center.h-16.px-5.sm\:px-2.py-2.text-sm.font-semibold:nth-child(5)
+hdfilme.cx##header:nth-child(3) > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.flex-1.flex.items-center.justify-center.sm\:items-stretch.sm\:justify-start:nth-child(2) > div.hidden.sm\:block.absolute.sm\:relative.bg-black.sm\:bg-transparent.sm\:ml-4.mt-16.sm\:mt-0.top-0.w-screen.sm\:w-auto.z-30:last-child > div.sm\:flex.items-center > div.dropdown-hover.relative:nth-child(2) > div.flex.items-center.h-16.hover\:bg-gray-800.text-white.px-5.sm\:px-2.py-2.text-sm.font-semibold.cursor-pointer:first-child
+hdfilme.cx##header:nth-child(3) > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.flex-1.flex.items-center.justify-center.sm\:items-stretch.sm\:justify-start:nth-child(2) > div.hidden.sm\:block.absolute.sm\:relative.bg-black.sm\:bg-transparent.sm\:ml-4.mt-16.sm\:mt-0.top-0.w-screen.sm\:w-auto.z-30:last-child > div.sm\:flex.items-center > div.dropdown-hover.relative:nth-child(3)
+hdfilme.cx##header:nth-child(3) > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.right-0.flex.items-center.pr-2.sm\:pr-0:last-child > div.ml-1.relative.dropdown-hover:last-child
+hdfilme.cx###text-homepage
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.trailer-home.mt-12:nth-child(6) > div.relative
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.filme-home.mt-5:nth-child(2) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.more.text-sm.absolute.right-0:last-child > div.hidden.md\:inline.text-gray-500:first-child > span.cursor-pointer.py-1.pr-2.text-green-500.hover\:opacity-100.opacity-30:nth-child(2)
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.filme-home.mt-5:nth-child(2) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.more.text-sm.absolute.right-0:last-child > div.hidden.md\:inline.text-gray-500:first-child > span.cursor-pointer.py-1.pr-2.text-green-500.hover\:opacity-100.opacity-30:last-child
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.serien-home.mt-12:nth-child(4) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.more.text-sm.absolute.right-0:last-child > div.hidden.md\:inline.text-gray-500:first-child > span.cursor-pointer.py-1.pr-2.text-green-500.hover\:opacity-100.opacity-30:nth-child(2)
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.serien-home.mt-12:nth-child(4) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.more.text-sm.absolute.right-0:last-child > div.hidden.md\:inline.text-gray-500:first-child > span.cursor-pointer.py-1.pr-2.text-green-500.hover\:opacity-100.opacity-30:last-child
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.serien-home.mt-12:nth-child(4) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.tabs.flex-grow.ml-2.hidden.md\:block.text-sm.text-gray-500.space-x-1:nth-child(2) > span.cursor-pointer.hover\:bg-gray-700.hover\:text-gray-400.px-2.py-1.rounded.bg-gray-800:first-child
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.serien-home.mt-12:nth-child(4) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.tabs.flex-grow.ml-2.hidden.md\:block.text-sm.text-gray-500.space-x-1:nth-child(2) > span.cursor-pointer.hover\:bg-gray-700.hover\:text-gray-400.px-2.py-1.rounded.bg-gray-800:last-child
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.serien-home.mt-12:nth-child(4) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.tabs.flex-grow.ml-2.hidden.md\:block.text-sm.text-gray-500.space-x-1:nth-child(2) > span.cursor-pointer.hover\:bg-gray-700.hover\:text-gray-400.px-2.py-1.rounded.bg-gray-800:nth-child(2)
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.filme-home.mt-5:nth-child(2) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.tabs.flex-grow.ml-2.hidden.md\:block.text-sm.text-gray-500.space-x-1:nth-child(2) > span.cursor-pointer.hover\:bg-gray-700.hover\:text-gray-400.px-2.py-1.rounded.bg-gray-800:last-child
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.filme-home.mt-5:nth-child(2) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.tabs.flex-grow.ml-2.hidden.md\:block.text-sm.text-gray-500.space-x-1:nth-child(2) > span.cursor-pointer.hover\:bg-gray-700.hover\:text-gray-400.px-2.py-1.rounded.bg-gray-800:nth-child(2)
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > section.filme-home.mt-5:nth-child(2) > div.relative > div.flex.heading.items-center.justify-between:first-child > div.tabs.flex-grow.ml-2.hidden.md\:block.text-sm.text-gray-500.space-x-1:nth-child(2) > span.cursor-pointer.hover\:bg-gray-700.hover\:text-gray-400.px-2.py-1.rounded.bg-gray-800:first-child
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > div.bg-gray-1000.rounded.p-5.mt-3:nth-child(6)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > section.bg-gray-1000.rounded.p-5.mt-3:last-child
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > div.cursor-pointer.bg-gray-800.mt-5.-mb-2.px-5.py-2.rounded.text-green-200.hover\:text-green-300.font-light.animate-blinking:nth-child(3)
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > div.bg-gray-1000.rounded.p-5.mt-5:nth-child(4) > div.font-light.text-sm.space-y-1\.5:last-child
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > div.bg-gray-1000.rounded.p-5.mt-5:nth-child(4) > div.border-b.border-gray-700.mb-5.pb-5:nth-child(2) > section > div.font-extralight.prose.max-w-none:last-child > p:last-child
+hdfilme.cx###content-wrapper > div.content.lg\:flex.md\:p-3.px-2.xl\:px-0:last-child > main.col-left.w-full.lg\:flex-grow:first-child > div.flex.justify-center.mt-5:first-child
+onlinevideoconverter.pro###main > div.converter-links:nth-child(2)
+onlinevideoconverter.pro###main > div.home-section-3.bg-e7:nth-child(3)
+onlinevideoconverter.pro###main > div.home-section-2.bg-e7:nth-child(4)
+onlinevideoconverter.pro###main > div.home-section-4:nth-child(5)
+onlinevideoconverter.pro###main > div.urlconverter-section-3.pb-50-w:nth-child(6)
+onlinevideoconverter.pro##div.footer:nth-child(5)
+onlinevideoconverter.pro##div.header:first-child
+cloudconvert.com###app > div > div.app-content.content.center-layout:nth-child(3) > div.content-wrapper.container > div:last-child
+cloudconvert.com###app > div > div.container:last-child
+cloudconvert.com###navbar-mobile > ul.nav.navbar-nav.mr-auto.float-left:first-child > li.nav-item:nth-child(2)
+cloudconvert.com###navbar-mobile > ul.nav.navbar-nav.mr-auto.float-left:first-child > li.nav-item:last-child
+beta.crunchyroll.com###content > div > div.app-body-wrapper:nth-child(2) > div.c-page-wrapper.erc-watch-episode > div.erc-watch-episode-layout > div.c-content-wrapper:last-child > div.body-wrapper > div.commenting-wrapper:last-child
+zoro.to###header > div.container > div.header-setting:nth-child(5)
+zoro.to###header > div.container > div.header-group:nth-child(4)
+zoro.to###wrapper > div.mba-block:nth-child(7)
+zoro.to###discussion > div.container > div.dis-wrap.dis-model
+zoro.to###footer-about
+zoro.to###main-sidebar > section.block_area.block_area_sidebar.block_area-realtime:last-child
+zoro.to###main-content > section.block_area.block_area-actors:nth-child(2)
+zoro.to###main-content > section.block_area.block_area-promotions:nth-child(3) > div.block_area-content.block_area-promotions-list:last-child > div.screen-items > div.item:first-child
+zoro.to###main-content > section.block_area.block_area-promotions:nth-child(3)
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-content:last-child > div.anisc-poster:first-child > a.add-manga.mb-0.get-mangas:last-child
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-content:last-child > div.anisc-detail:nth-child(2) > div.film-text.m-hide:nth-child(7)
+zoro.to###main-wrapper > div.mba-block:nth-child(3)
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2) > a.dt-comment:last-child
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-poster:first-child > a.add-manga.mb-0.get-mangas:last-child
+zoro.to###comment-block
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2) > div.film-text.m-hide.mb-3:nth-child(4)
+||viewsb.com/streamSB_images/logo.png$domain=watchsb.com
+||zoro.to/images/logo.png$domain=zoro.to
+||zoro.to/images/*$domain=zoro.to
+zoro.to###search-ep
+zoro.to###detail-ss-list > div.detail-infor-content > div.ss-choice:first-child > div.ssc-quick:nth-child(2) > div.sscq-icon:first-child
+zoro.to###vote-info > div.block-rating > div.rating-result:first-child > div.rr-title.float-right:nth-child(2)
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch.anis-watch-tv:nth-child(2) > div.watch-player:first-child > div.player-controls:last-child > div.pc-right:nth-child(5) > div.pc-item.pc-live:last-child > a.btn.btn-sm.btn-watch2gether > span.m-hide:nth-child(2)
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch.anis-watch-tv:nth-child(2) > div.watch-player:first-child > div.player-controls:last-child > div.pc-right:nth-child(5) > div.pc-item.pc-live:last-child > a.btn.btn-sm.btn-watch2gether
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.prebreadcrumb:first-child
+zoro.to###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(3) > li.nav-item:nth-child(8) > a.nav-link
+zoro.to###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(3) > li.nav-item:nth-child(9) > a.nav-link
+zoro.to###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(3) > li.nav-item:nth-child(10) > a.nav-link
+zoro.to###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(3) > li.nav-item:nth-child(4) > a.nav-link
+zoro.to###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(3) > li.nav-item:nth-child(5) > a.nav-link
+zoro.to###anime-trending
+zoro.to###anime-featured > div.container > div.anif-blocks > div.row
+zoro.to###main-content > section.block_area.block_area-promotions:nth-child(2)
+zoro.to###main-content > section.block_area.block_area-actors:first-child
+acapella-extractor.com###traffic-banner-5
+acapella-extractor.com###text
+acapella-extractor.com###footer
+acapella-extractor.com###separator
+acapella-extractor.com##div.nav:nth-child(2) > a:last-child
+acapella-extractor.com##div.nav:nth-child(2) > a:nth-child(3)
+acapella-extractor.com##div.nav:nth-child(2) > a:nth-child(2)
+acapella-extractor.com##div.nav:nth-child(2)
+acapella-extractor.com###content > div:nth-child(4)
+acapella-extractor.com###content > h1:nth-child(6)
+acapella-extractor.com###content > p:nth-child(7)
+acapella-extractor.com###content > p:nth-child(9)
+acapella-extractor.com###content > div:nth-child(10) > p:last-child
+acapella-extractor.com###content > p:last-child
+acapella-extractor.com###myModal > div.modal-content
+acapella-extractor.com###myModal
+timetreeapp.com###root > div:first-child > div.fullScreen.applicationController.calendars > div.css-13ku56z.elfbexy0:first-child > div.css-138ongm.e48n10d0:first-child
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2) > div.dt-rate:nth-child(6)
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-cover-wrap:first-child
+zoro.to###servers-content > div.ps_-block.ps_-block-sub.servers-sub:nth-child(2) > div.ps__-list:nth-child(2) > div.item.server-item:last-child > a.btn
+zoro.to###servers-content > div.ps_-block.ps_-block-sub.servers-dub:last-child > div.ps__-list:nth-child(2) > div.item.server-item:last-child > a.btn
+zoro.to###servers-content > div.ps_-block.ps_-block-sub.servers-sub:nth-child(2) > div.ps__-list:nth-child(2) > div.item.server-item:nth-child(2) > a.btn
+zoro.to###servers-content > div.ps_-block.ps_-block-sub.servers-dub:last-child > div.ps__-list:nth-child(2) > div.item.server-item:nth-child(2) > a.btn
+
+jamesedition.com###page_content > div.je2-home:nth-child(2) > div.je2-home__section:nth-child(4)
+jamesedition.com###page_content > div.je2-home:nth-child(2) > div.je2-home__testimonials:nth-child(6)
+jamesedition.com###page_content > div.je2-home:nth-child(2) > div.je2-home__section:nth-child(7)
+jamesedition.com###page_content > div.je2-home:nth-child(2) > div.je2-home__section:last-child > div.je2-popular-links
+jamesedition.com###page_content > div.je2-footer:last-child
+jamesedition.com###page_content > div.je2-home:nth-child(2) > div.je2-home__section:nth-child(3)
+jamesedition.com###page_content > div.je2-home:nth-child(2) > div.je2-home__section:nth-child(5)
+jamesedition.com###main-navigation > div.header__container:first-child > div.header__top-section:first-child > div.header__options._hide-on-mobile:nth-child(3)
+jamesedition.com###main-navigation > div.header__container:first-child > div.header-menu.js-header-menu:nth-child(2) > div.header-menu__content > div.header-menu__container > div.header-menu__item:nth-child(6)
+jamesedition.com###page_content > div.je2-top-banner-new:first-child > div.je2-top-banner-new__content:first-child > div.je2-top-banner-new__content-wrapper > div.je2-top-banner-new__content-left:first-child
+jamesedition.com###page_content > div.je2-top-banner-new:nth-child(2) > div.je2-top-banner-new__content:first-child > div.je2-top-banner-new__content-wrapper > div.je2-top-banner-new__content-left:first-child > h1.je2-top-banner-new__subtitle:last-child
+jamesedition.com###page_content > div.je2-category:nth-child(3) > div.je2-category__section:first-child > div.je2-trending:first-child
+jamesedition.com###page_content > div.je2-category:nth-child(3) > div.je2-category__section:nth-child(4) > div.je2-popular-links
+jamesedition.com###page_content > div.je2-category:nth-child(3) > div.je2-category__section:last-child
+jamesedition.com###category > section.related:last-child > div.latest-stories
+jamesedition.com###listing-bottom-ad
+jamesedition.com###view > div.breadcrumbs:nth-child(2) > ol.breadcrumb
+jamesedition.com###view > div.filter-bar.js-filter-bar:nth-child(4) > div.filter-bar__container
+jamesedition.com###open-report-modal
+||static-x.jamesedition.com/assets/icons/*$domain=jamesedition.com
+jamesedition.com##.JE-search-result__office-logo
+||static-x.jamesedition.com/assets/flags/*$domain=jamesedition.com
+||assets.jamesedition.com/favicon.ico$domain=jamesedition.com
+
+||assets.jamesedition.com/favicon-32x32.png$domain=jamesedition.com
+||assets.jamesedition.com/favicon-16x16.png$domain=jamesedition.com
+||img.jamesedition.com^$domain=jamesedition.com,third-party
+||img.jamesedition.com/dealer_listings_logos/*$domain=jamesedition.com,important
+jamesedition.com###results > div.JE-search-results > div.JE-search-results__body:nth-child(2) > div.JE-search-results__grid > div.JE-search-results__grid-item:nth-child(4) > section.JE-search-result-save-search-tile > div.JE-search-result-save-search-tile__element
+
+mail.google.com##div:nth-child(20) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.vxm5ce.nn:last-child > div.no:first-child > div.nH.bAw.nn > div.brC-aT5-aOt-Jw.brC-aMv-auO:first-child
+mail.google.com##div:nth-child(20) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.vxm5ce.nn:last-child > div.no:first-child > div.nH.bAw.nn > div.brC-dA-I-Jw.brC-aMv-auO:last-child > div.aT5-aOt-I.brC-dA-I.aT5-aOt-I-JO.aT5-aOt-I-JW > div.aT5-aOt-I-JX-Jw:last-child
+mail.google.com###Layer_1
+mail.google.com##div:nth-child(20) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.akc.aZ6.YX:last-child
+mail.google.com##div:nth-child(20) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.aeO.aeR:nth-child(2)
+mail.google.com###\:1 > div.nH > div.BltHke.nH.oy8Mbf.S4 > div.Nr.UI.S2.vy:last-child > div.Nu.tf.aZ6:first-child > div.l2.pfiaof.V4:last-child
+mail.google.com##div:nth-child(19) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.vxm5ce.nn:last-child > div.no:first-child > div.nH.bAw.nn
+mail.google.com###gb > div.gb_Jd.gb_0d.gb_Pd.gb_yc:nth-child(2) > div.gb_Td.gb_Va.gb_Id.gb_Wd:last-child > div.gb_Pe:first-child > div.gb_Qc:first-child
+mail.google.com###gb > div.gb_Jd.gb_0d.gb_Pd.gb_yc:nth-child(2) > div.gb_Id.gb_Sd.gb_Le.gb_Ae.gb_Ie:nth-child(2) > div.gb_oe.gb_me:last-child > div.zo:first-child
+mail.google.com###\:1 > div.nH > div.BltHke.nH.oy8Mbf.S4 > div.D.E.G-atb:first-child > div.nH.aqK:first-child > div.Cr.aqJ:nth-child(2) > div.aBS.J-J5-Ji:nth-child(2)
+###\:1 > div.nH > div.BltHke.nH.oy8Mbf.S4:last-child > div.D.E.G-atb.PY:first-child > div.nH.aqK:nth-child(2) > div.Cr.aqJ:nth-child(2) > div.aBS.J-J5-Ji:nth-child(3) > div
+mail.google.com###\:1 > div.nH > div.BltHke.nH.oy8Mbf.S4:nth-child(2) > div.D.E.G-atb.PY:first-child > div.nH.aqK:nth-child(2) > div.Cr.aqJ:nth-child(2) > div.aBS.J-J5-Ji:nth-child(3) > div
+mail.google.com###\:1 > div.nH > div.BltHke.nH.oy8Mbf.S4:last-child > div.D.E.G-atb:first-child > div.nH.aqK:nth-child(2) > div.Cr.aqJ:nth-child(2) > div.aBS.J-J5-Ji:nth-child(3) > div
+zoro.to###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch.anis-watch-tv:nth-child(2) > div.watch-player:first-child > div.player-controls:last-child
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > a.promo-message.promo-message__banner.promo-message__with-button:last-child
+de.xhamster.com##div.main-wrap:nth-child(2) > div.width-wrap:nth-child(2) > main > aside:first-child > div.categories-list > div.main-categories:first-child > a:nth-child(3)
+de.xhamster.com##div.main-wrap:nth-child(2) > div.width-wrap:nth-child(2) > main > aside:first-child > div.categories-list > div.all-categories:last-child
+de.xhamster.com##div.main-wrap:nth-child(2) > div.width-wrap:nth-child(2) > main > article.clearfix-after:last-child > div:nth-child(3) > div.recomm-promo-banner
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.left.top-menu-collapsable:first-child > li.nav-item.displayed-nav-item:nth-child(9) > a
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.left.top-menu-collapsable:first-child > li.nav-item.displayed-nav-item:nth-child(8) > a
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.left.top-menu-collapsable:first-child > li.nav-item.creators.xh-dropdown.has-child.delay.pop-menu-live.displayed-nav-item:nth-child(5) > a.trigger.on-hover:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.left.top-menu-collapsable:first-child > li.nav-item.pornstars.xh-dropdown.has-child.delay.pop-menu-live.displayed-nav-item:nth-child(4) > a.trigger.on-hover:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.left.top-menu-collapsable:first-child > li.nav-item.live-nav.xh-dropdown.has-child.delay.pop-menu-live.displayed-nav-item:nth-child(3) > a.trigger.on-hover:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > div.top-header:first-child > div.width-wrap.section-container > div.search-section:first-child > div.orientation-dropdown-container.orientation-dropdown-container-block.xh-dropdown:nth-child(2) > div.xh-dropdown.delay > a.dropdown-trigger.trigger.on-click:first-child
+de.xhamster.com##div.main-wrap:nth-child(2) > div.width-wrap:nth-child(2) > main > article.clearfix-after:last-child > div.related-container:nth-child(7)
+
+de.xhamster.com##div.main-wrap:nth-child(2) > div.width-wrap:nth-child(2) > main > article.clearfix-after:last-child > div.related-container:last-child
+de.xhamster.com##div.main-wrap:nth-child(2) > div.width-wrap:nth-child(2) > main > article.clearfix-after:last-child > div.related-container:nth-child(6)
+de.xhamster.com##div.main-wrap:nth-child(2) > footer:nth-child(3) > div.width-wrap:nth-child(2)
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.right:last-child > li.theme-section:last-child > div.desktop-theme-picker > div.desktop-theme-picker__toggle-button:first-child > i.xh-icon.moon
+de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top-menu-container:nth-child(2) > div.top-menu.width-wrap > ul.top-menu__side-group.right:last-child > li.theme-section:last-child > div.desktop-theme-picker
+hdfilme.cx###config-text
+hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-2 > div.cursor-pointer.bg-gray-800.mt-3.px-5.py-2.rounded.text-green-200.hover\:text-green-300.font-light.animate-blinking:nth-child(2)
+###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > div.cursor-pointer.bg-gray-800.mt-5.-mb-2.px-5.py-2.rounded.text-green-200.hover\:text-green-300.font-light.animate-blinking:nth-child(2)
+youtube.com###top-level-buttons-computed > ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-text:first-child
+zoro.to###sidebar_menu > div.sb-donate:nth-child(3)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(4)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(8)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(9)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(10)
+zoro.to###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(2)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(3)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(5)
+###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(7)
+googleadservices.com
+amazon.de###desktop-banner
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
+d.reddit.com
+metrics.mzstatic.com
+ads-dev.pinterest.com
+advertising.twitter.com
+app.getsentry.com
+https://googleadservices.com
+https://widgets.pinterest.com
+google.com###appbar
+https://googleadservices.com
+google.com###rso > div.ULSxyf:last-child > div.uVMCKf.aNytqb > div.T467lc:nth-child(2)
+###rso > div.g:first-child > div.BYM4Nd:last-child > div.eKjLze:first-child > div.g > div > div.tF2Cxc > div.IsZvec:last-child > div.MUxGbd.wuQ4Ob.WZ8Tjf:last-child
+###rso > div.g:first-child > div.BYM4Nd:last-child > table.jmjoTe:last-child > tbody > tr:last-child
+google.com###fbar > div.fbar:last-child
+google.com###cnt > div:nth-child(15)
+google.com###hdtb-msb > div:last-child
+###rso > div.g.tF2Cxc:nth-child(6) > div.kWxLod > div.jtfYYd:last-child
+###taw
+###searchform > div.Q3DXx.yIbDgf:last-child > div.Q3DXx:last-child > div.c58wS:first-child
+###rso > div.hlcw0c:first-child > div.g:first-child > div.BYM4Nd:last-child > div.eKjLze:first-child > div.g > div > div.tF2Cxc > div.IsZvec:last-child > div.MUxGbd.wuQ4Ob.WZ8Tjf:last-child
+###rso > div.hlcw0c:nth-child(4) > div > div.g > div:first-child > div.g.jNVrwc.Y4pkMc > div > div.tF2Cxc > div.IsZvec:last-child > div.MUxGbd.wuQ4Ob.WZ8Tjf:last-child
+###rso > div.hlcw0c:nth-child(4) > div > div.g > div:first-child > div.g.jNVrwc.Y4pkMc > div > div.tF2Cxc > div.IsZvec:last-child > div.MUxGbd.wuQ4Ob.WZ8Tjf:last-child
+##.TbwUpd, .NJjxre
+##.iTPLzd, .GUHazd, .lUn2nc, .eY4mx
+google.com###rso > div.ULSxyf:nth-child(5)
+##.ULSxyf
+##.N3nEGc, .wEQKyf, .KvEf6c
+###rso > div.g:first-child > div.BYM4Nd:last-child > table.jmjoTe:last-child > tbody > tr:last-child
+###kp-wp-tab-overview > div.TzHB6b.cLjAic:last-child
+google.com###rhs > div.liYKde.g.VjDLd:nth-child(3) > div.kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div.rpBMYb.kno-ftr:last-child > div.uquUgf
+##.ellip, .SnLWtb
+###kp-wp-tab-overview > div.TzHB6b.cLjAic:nth-child(2)
+##.ellip, .SnLWtb
+##.ULSxyf
+##.PfS8Ld
+###kp-wp-tab-overview > div.TzHB6b.cLjAic:nth-child(2) > div > div.sATSHe > div
+###kp-wp-tab-overview > div.TzHB6b.cLjAic:last-child > div > div.sATSHe > div
+###rso > div.ULSxyf:nth-child(6) > g-section-with-header.yG4QQe.TBC9ub > div:nth-child(2)
+###rso > div.ULSxyf:nth-child(6) > g-section-with-header.yG4QQe.TBC9ub > div:nth-child(3)
+##.ULSxyf
+##.TbwUpd, .NJjxre
+##.iTPLzd, .GUHazd, .lUn2nc, .eY4mx
+youtube.com##ytd-app:nth-child(9) > ytd-popup-container.style-scope.ytd-app:nth-child(10) > tp-yt-paper-dialog.style-scope.ytd-popup-container:last-child > ytd-offline-promo-renderer.style-scope.ytd-popup-container
+drwatch.to###page > div.elementor.elementor-7443.elementor-location-footer:nth-child(3) > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4695228.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-a14a2df:last-child > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-bd4ea0d.elementor-widget.elementor-widget-wp-widget-gtranslate.elementor-sticky.elementor-sticky--active.elementor-section--handles-inside.elementor-sticky--effects:nth-child(3) > div.elementor-widget-container > div.switcher.notranslate:nth-child(2) > div.selected:first-child > a
+youtube.com###top-level-buttons-computed > ytd-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-default.size-default:nth-child(6) > a.yt-simple-endpoint.style-scope.ytd-button-renderer
+zoro.to###logo > img:first-child
+##.share-buttons-block
+###main-sidebar > section.block_area.block_area_sidebar.block_area-connecting:last-child
+hypedripz.com###soundest-form-Ss9gGbseL9yhDzrhPXCko9HmIanVMtSuIZqH-template-container
+a2017090208083730769.szwego.com###ad_pcc
+mail.google.com##div:nth-child(19) > div.nH:nth-child(3) > div.nH > div.nH.aqk.aql.bkL:last-child > div.nH.aUx:last-child > div.no:first-child > div.nH.bAw.nn > div.brC-dA-I-Jw.brC-aMv-auO:last-child > div.aT5-aOt-I.brC-dA-I.aT5-aOt-I-JW.aT5-aOt-I-JO > div.aT5-aOt-I-JX-Jw:last-child
+###header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item.twitter_bt:nth-child(5)
+theinformation.com##div.MuiModal-root.css-8ndowl:last-child
+theinformation.com###gdpr-modal-container
+@@||accounts.google.com/gsi/client$domain=k3noxofficial.net
+@@||accounts.google.com/gsi/client$domain=k3noxanime.com
+##header:first-child > nav.bg-black.bg-opacity-50.border-b.border-gray-800 > div.max-w-7xl.mx-auto.px-2.md\:px-3.xl\:px-0 > div.relative.flex.items-center.justify-between.h-16 > div.flex-1.flex.items-center.justify-center.sm\:items-stretch.sm\:justify-start:nth-child(2) > div.flex-shrink-0:first-child > a.flex.h-16.items-center
+##footer.bg-black.bg-opacity-50.py-10.border-t.border-b.border-gray-800:nth-child(3)
+###dle-content > section.detail.mt-2 > div.mb-2.text-center:first-child
+###dle-content > section.detail.mt-2 > div.mt-2.text-center:nth-child(3)
+###dle-content > section.detail.mt-2 > div.bg-gray-1000.rounded.p-5.mt-3:nth-child(12)
+###dle-content > section.detail.mt-2 > div.bg-gray-1000.rounded.p-5:nth-child(10)
+##.mb-2, .text-center
+@@||input.falixnodes.net/matomo.js
+@@||input.falixnodes.net/matomo.php?action_name=FalixNodes%20-%20Server%20Console%20%7C%20Client%20Panel&idsite=1&rec=1&r=063338&h=22&m=4&s=1&url=https%3A%2F%2Fclient.falixnodes.net%2Fserver%2Fconsole&urlref=https%3A%2F%2Fclient.falixnodes.net%2Fserver%2Ffiles.php%3Fdir%3D%2Fmods%2F&_id=8b75cb2e8998166a&_idn=0&send_image=0&_refts=0&pdf=1&qt=0&realp=0&wma=0&fla=0&java=0&ag=0&cookie=1&res=1280x720&pv_id=8HrV6a&pf_net=0&pf_srv=176&pf_tfr=159&uadata=%7B%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22Not%3FA_Brand%22%2C%22version%22%3A%2299.0.0.0%22%7D%2C%7B%22brand%22%3A%22Opera%20GX%22%2C%22version%22%3A%2297.0.4719.61%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22111.0.5563.111%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22Windows%22%2C%22platformVersion%22%3A%2216.0.0%22%7D
+###top > div.container-fluid > div.content:last-child > div.row > div.col-xl:first-child > div.alert.alert-success:nth-child(3)
+##main.flex-1:nth-child(3) > div.full-container > div.flex.mb-lh.flex-col.md\:flex-row:nth-child(2) > div.flex-grow.pb-lh.md\:pb-0:first-child
+##main.flex-1:nth-child(3) > div.full-container > div.flex.mb-lh.flex-col.md\:flex-row:nth-child(2)
+##main.flex-1:nth-child(3) > div.full-container > h3.mt-lh.mb-lh:first-child
+##main.flex-1:nth-child(3) > div.full-container > div.mb-2lh:nth-child(4) > div:last-child > div.flex.flex-col.md\:flex-row.gap-2lh.md\:gap-lh > div.flex-1.min-w-0:last-child > div > div.inline-block.mr-3.mb-3:nth-child(4) > a.form-button-secondary
+##main.flex-1:nth-child(3) > div.full-container > div.mb-2lh:nth-child(4) > div:last-child > div.flex.flex-col.md\:flex-row.gap-2lh.md\:gap-lh > div.flex-1.min-w-0:last-child > div > div.inline-block.mr-3.mb-3:nth-child(6) > a.form-button-secondary.mb-lh
+###main-content > section.block_area.block_area_home:nth-child(5)
+@@||youtube.com/api/$domain=w2g.tv
+@@||youtube.com^
+###app-ad
+uptimerobot.com###usercom-launcher-dot-frame
+acxmovie.com###modal-watch > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body.mopie-modal-content.p-0.border:first-child
+acxmovie.com###modal-watch > div.modal-dialog.modal-dialog-centered > div.modal-content
+###header > div.container > div.header-setting:nth-child(5) > div.hs-toggles
+###header > div.container > div.header-group:nth-child(4)
+###vote-info > div.block-rating
+###ani_detail > div.ani_detail-stage > div.container > div.anis-watch-wrap:last-child > div.anis-watch-detail:last-child > div.anis-content > div.anisc-detail:nth-child(2) > a.dt-comment:last-child
+###comment-block
+###discussion > div.container > div.dis-wrap.dis-model
+###footer-about > div.container > div.footer-top:first-child > div.footer-joingroup:nth-child(2)
+###footer-about > div.container > div.footer-az:nth-child(2)
+###footer-about > div.container > p.copyright:last-child
+###footer-about > div.container > div.about-text:nth-child(4)
+###anime-featured > div.container > div.anif-blocks > div.row
+##div:first-child > div.fixed.bottom-0.sm\:top-0.z-50.flex.flex-row.items-center.justify-between.backdrop-blur.bg-opacity-80.border-t.sm\:border-t-0.sm\:border-b.border-opacity-50.text-sm.select-none.bg-zinc-900.border-t-zinc-700.sm\:border-b-zinc-700:first-child > div.hidden.sm\:flex.items-center.cursor-pointer.px-4.pl-6.left-0.h-full.w-32:first-child
+##div:first-child > div.mb-\[56px\].sm\:mb-0.sm\:mt-\[56px\]:last-child > div.w-screen.overflow-x-hidden.flex.flex-col.bg-zinc-800.text-gray-100.text-sm > div.flex.flex-col.items-center.py-4.mt-16:last-child > a:first-child
+139-177-181-173.ip.linodeusercontent.com###header > div.right-menu:last-child
+kinox-deutsch.com###player-modal
+###\33 luvv68
+###u3zbqays
+###xw1nvga
+###\30 o576zon
+###vplayer > div.jw-wrapper.jw-reset:nth-child(2) > div.jw-logo.jw-logo-top-right.jw-hide.jw-reset:nth-child(11)
+splice.com##app-root:nth-child(2) > sp-app-frame:first-child > div.top-bar:first-child > div > app-navbar:last-child > header.global-nav.s-base-type-reset.ng-star-inserted > section.global-nav__brand:nth-child(3) > a.global-nav__link
+splice.com###main-container > sounds-container.ng-star-inserted:nth-child(2) > sp-page-layout > div.page-layout__header:first-child > sounds-header.ng-star-inserted > nav.subnav.s-base-type-reset.subnav--on-top > div.subnav__upgrade.subnav__cta--right.s-hide-sm.s-trial-mode.ng-star-inserted:last-child > sounds-header-upgrade-btn:first-child > button.s-button.s-button--small.s-button--text-link.subnav__link--upgrade
+splice.com###main-container > sounds-container.ng-star-inserted:nth-child(2) > sp-page-layout > div.page-layout__header:first-child > sounds-header.ng-star-inserted > nav.subnav.s-base-type-reset.subnav--on-top > div.subnav__upgrade.subnav__cta--right.s-hide-sm.s-trial-mode.ng-star-inserted:last-child > span.subnav__side-meta:last-child
+##div:nth-child(13) > div.AIPRM__fixed.AIPRM__flex.AIPRM__justify-center.AIPRM__w-full.AIPRM__top-2.AIPRM__px-2.AIPRM__z-50.AIPRM__pointer-events-none > div.AIPRM__bg-green-500.AIPRM__flex.AIPRM__pointer-events-auto.AIPRM__px-6.AIPRM__py-3.AIPRM__rounded-md.AIPRM__text-white
+##div:last-child > div.AIPRM__fixed.AIPRM__flex.AIPRM__justify-center.AIPRM__w-full.AIPRM__top-2.AIPRM__px-2.AIPRM__z-50.AIPRM__pointer-events-none > div.AIPRM__bg-green-500.AIPRM__flex.AIPRM__pointer-events-auto.AIPRM__px-6.AIPRM__py-3.AIPRM__rounded-md.AIPRM__text-white
+##div:nth-child(15) > div.AIPRM__fixed.AIPRM__flex.AIPRM__justify-center.AIPRM__w-full.AIPRM__top-2.AIPRM__px-2.AIPRM__z-50.AIPRM__pointer-events-none > div.AIPRM__bg-green-500.AIPRM__flex.AIPRM__pointer-events-auto.AIPRM__px-6.AIPRM__py-3.AIPRM__rounded-md.AIPRM__text-white
+##div:nth-child(16) > div.AIPRM__fixed.AIPRM__flex.AIPRM__justify-center.AIPRM__w-full.AIPRM__top-2.AIPRM__px-2.AIPRM__z-50.AIPRM__pointer-events-none > div.AIPRM__bg-green-500.AIPRM__flex.AIPRM__pointer-events-auto.AIPRM__px-6.AIPRM__py-3.AIPRM__rounded-md.AIPRM__text-white
+chat.openai.com###AppName
+chat.openai.com###__next > div.overflow-hidden.w-full.h-full.relative.flex.z-0:nth-child(2) > div.dark.flex-shrink-0.overflow-x-hidden.bg-gray-900:first-child > div.h-full.w-\[260px\] > div.flex.h-full.min-h-0.flex-col > div.scrollbar-trigger.relative.h-full.w-full.flex-1.items-start.border-white\/20 > nav.flex.h-full.w-full.flex-col.p-2:last-child > a.AIPRM__flex.AIPRM__py-3.AIPRM__px-3.AIPRM__items-center.AIPRM__gap-3.AIPRM__rounded-md.hover\:AIPRM__bg-gray-500\/10.AIPRM__transition-colors.AIPRM__duration-200.AIPRM__text-white.AIPRM__cursor-pointer.AIPRM__text-sm:last-child
+chat.openai.com###__next > div.overflow-hidden.w-full.h-full.relative.flex.z-0:nth-child(2) > div.dark.flex-shrink-0.overflow-x-hidden.bg-gray-900:first-child > div.h-full.w-\[260px\] > div.flex.h-full.min-h-0.flex-col > div.scrollbar-trigger.relative.h-full.w-full.flex-1.items-start.border-white\/20 > nav.flex.h-full.w-full.flex-col.p-2:last-child > div.border-t.border-white\/20.pt-2.empty\:hidden:nth-child(4) > a.flex.px-3.min-h-\[44px\].py-1.items-center.gap-3.transition-colors.duration-200.text-white.cursor-pointer.text-sm.hover\:bg-gray-800.rounded-md:first-child
+##div:nth-child(12) > div.AIPRM__fixed.AIPRM__flex.AIPRM__justify-center.AIPRM__w-full.AIPRM__top-2.AIPRM__px-2.AIPRM__z-50.AIPRM__pointer-events-none > div.AIPRM__bg-green-500.AIPRM__flex.AIPRM__pointer-events-auto.AIPRM__px-6.AIPRM__py-3.AIPRM__rounded-md.AIPRM__text-white
+##header.header:first-child > div.container
+##main.content:nth-child(2) > div.container > section.home:nth-child(2) > div.home__info:nth-child(2)
+##main.content:nth-child(2) > div.container > section.home:nth-child(2) > p.content__description:nth-child(3)
+##section.block.block__links:nth-child(4)
+##header.header:first-child > div.container
+||amazonaws.com^
+||ads.youtube.com^$important
+||ads-sg.tiktok.com^
+||adtago.s3.amazonaws.com^
+||amazonaws.com^
+||ads-api.twitter.com^
+###\33 8by6l6n
+###freezeBlock > div.mantine-AppShell-root.theme-dark.mantine-osix87:first-child > header.mantine-Header-root.mantine-1wys6g3:first-child > div.mantine-Grid-root.mantine-6v7rx2:last-child > div.mantine-Grid-col.mantine-1kinfpg:first-child > div.mantine-Group-root.mantine-54g21i > a.mantine-Text-root.mantine-Anchor-root.mantine-1mvk3qi:first-child > div.mantine-d68ejm > svg.mantine-mr0ie9
+||psoanufi.com^$important
+||psoanufi.com^
+||psoanufi.com^
+||ieagcdkdsw.com^
