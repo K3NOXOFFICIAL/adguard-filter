@@ -328,3 +328,7 @@ chat.openai.com###__next > div.overflow-hidden.w-full.h-full.relative.flex.z-0:n
 ||psoanufi.com^
 ||ieagcdkdsw.com^
 ###logo > img:first-child
+youtube.com###contents > ytd-rich-item-renderer.style-scope.ytd-rich-grid-row:first-child
+###logo > img:first-child
+###header > div.container > div.header-group:nth-child(4) > div.anw-group
+###header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item:nth-child(3)
