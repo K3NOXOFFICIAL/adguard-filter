@@ -332,3 +332,4 @@ youtube.com###contents > ytd-rich-item-renderer.style-scope.ytd-rich-grid-row:fi
 aniwatch.to###logo > img:first-child
 aniwatch.to###header > div.container > div.header-group:nth-child(4) > div.anw-group
 aniwatch.to###header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item:nth-child(3)
+
