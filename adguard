@@ -334,3 +334,10 @@ aniwatch.to###header > div.container > div.header-group:nth-child(4) > div.anw-g
 aniwatch.to###header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item:nth-child(3)
 youtube.com###footer
 aniwatch.to/images/logo.png$domain=aniwatch.to
+
+##contents > ytd-rich-item-renderer.style-scope.ytd-rich-grid-row:first-child
+##logo > img:first-child
+##header > div.container > div.header-group:nth-child(4) > div.anw-group
+##header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item:nth-child(3)
+##footer
+#$image,domain=aniwatch.to,important
