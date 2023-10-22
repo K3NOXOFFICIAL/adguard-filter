@@ -341,3 +341,4 @@ aniwatch.to/images/logo.png$domain=aniwatch.to
 ##header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item:nth-child(3)
 ##footer
 #$image,domain=aniwatch.to,important
+##header > div.container > div.header-group:nth-child(4)
