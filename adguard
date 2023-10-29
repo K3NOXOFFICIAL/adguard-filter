@@ -187,7 +187,7 @@ de.xhamster.com##div.main-wrap:nth-child(2) > header.promo:first-child > nav.top
 hdfilme.cx###config-text
 hdfilme.cx###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-2 > div.cursor-pointer.bg-gray-800.mt-3.px-5.py-2.rounded.text-green-200.hover\:text-green-300.font-light.animate-blinking:nth-child(2)
 ###content-wrapper > div.content.md\:px-3.px-2.xl\:px-0 > div.col-left.w-full > div.movie-info.mt-5:last-child > div.lg\:flex:last-child > main.lg\:flex-grow.overflow-x-auto:first-child > section.detail.mt-5 > div.cursor-pointer.bg-gray-800.mt-5.-mb-2.px-5.py-2.rounded.text-green-200.hover\:text-green-300.font-light.animate-blinking:nth-child(2)
-youtube.com###top-level-buttons-computed > ytd-toggle-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-text:first-child
+
 zoro.to###sidebar_menu > div.sb-donate:nth-child(3)
 ###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(4)
 ###sidebar_menu > ul.nav.sidebar_menu-list:nth-child(4) > li.nav-item:nth-child(8)
@@ -243,9 +243,9 @@ google.com###rhs > div.liYKde.g.VjDLd:nth-child(3) > div.kp-wholepage.kp-wholepa
 ##.ULSxyf
 ##.TbwUpd, .NJjxre
 ##.iTPLzd, .GUHazd, .lUn2nc, .eY4mx
-youtube.com##ytd-app:nth-child(9) > ytd-popup-container.style-scope.ytd-app:nth-child(10) > tp-yt-paper-dialog.style-scope.ytd-popup-container:last-child > ytd-offline-promo-renderer.style-scope.ytd-popup-container
+
 drwatch.to###page > div.elementor.elementor-7443.elementor-location-footer:nth-child(3) > div.elementor-section-wrap > section.elementor-section.elementor-top-section.elementor-element.elementor-element-4695228.elementor-section-boxed.elementor-section-height-default:nth-child(2) > div.elementor-container.elementor-column-gap-default > div.elementor-column.elementor-col-33.elementor-top-column.elementor-element.elementor-element-a14a2df:last-child > div.elementor-widget-wrap.elementor-element-populated > div.elementor-element.elementor-element-bd4ea0d.elementor-widget.elementor-widget-wp-widget-gtranslate.elementor-sticky.elementor-sticky--active.elementor-section--handles-inside.elementor-sticky--effects:nth-child(3) > div.elementor-widget-container > div.switcher.notranslate:nth-child(2) > div.selected:first-child > a
-youtube.com###top-level-buttons-computed > ytd-button-renderer.style-scope.ytd-menu-renderer.force-icon-button.style-default.size-default:nth-child(6) > a.yt-simple-endpoint.style-scope.ytd-button-renderer
+
 zoro.to###logo > img:first-child
 ##.share-buttons-block
 ###main-sidebar > section.block_area.block_area_sidebar.block_area-connecting:last-child
@@ -273,8 +273,7 @@ theinformation.com###gdpr-modal-container
 ##main.flex-1:nth-child(3) > div.full-container > div.mb-2lh:nth-child(4) > div:last-child > div.flex.flex-col.md\:flex-row.gap-2lh.md\:gap-lh > div.flex-1.min-w-0:last-child > div > div.inline-block.mr-3.mb-3:nth-child(4) > a.form-button-secondary
 ##main.flex-1:nth-child(3) > div.full-container > div.mb-2lh:nth-child(4) > div:last-child > div.flex.flex-col.md\:flex-row.gap-2lh.md\:gap-lh > div.flex-1.min-w-0:last-child > div > div.inline-block.mr-3.mb-3:nth-child(6) > a.form-button-secondary.mb-lh
 ###main-content > section.block_area.block_area_home:nth-child(5)
-@@||youtube.com/api/$domain=w2g.tv
-@@||youtube.com^
+
 ###app-ad
 uptimerobot.com###usercom-launcher-dot-frame
 acxmovie.com###modal-watch > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-body.mopie-modal-content.p-0.border:first-child
@@ -316,7 +315,7 @@ chat.openai.com###__next > div.overflow-hidden.w-full.h-full.relative.flex.z-0:n
 ##section.block.block__links:nth-child(4)
 ##header.header:first-child > div.container
 ||amazonaws.com^
-||ads.youtube.com^$important
+
 ||ads-sg.tiktok.com^
 ||adtago.s3.amazonaws.com^
 ||amazonaws.com^
@@ -328,7 +327,7 @@ chat.openai.com###__next > div.overflow-hidden.w-full.h-full.relative.flex.z-0:n
 ||psoanufi.com^
 ||ieagcdkdsw.com^
 ###logo > img:first-child
-youtube.com###contents > ytd-rich-item-renderer.style-scope.ytd-rich-grid-row:first-child
+
 aniwatch.to###logo > img:first-child
 aniwatch.to###header > div.container > div.header-group:nth-child(4) > div.anw-group
 aniwatch.to###header > div.container > div.header-setting:nth-child(5) > div.hs-toggles > div.hst-item:nth-child(3)
