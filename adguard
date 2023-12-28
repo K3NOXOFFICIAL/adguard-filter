@@ -272,7 +272,7 @@ theinformation.com###gdpr-modal-container
 ##main.flex-1:nth-child(3) > div.full-container > h3.mt-lh.mb-lh:first-child
 ##main.flex-1:nth-child(3) > div.full-container > div.mb-2lh:nth-child(4) > div:last-child > div.flex.flex-col.md\:flex-row.gap-2lh.md\:gap-lh > div.flex-1.min-w-0:last-child > div > div.inline-block.mr-3.mb-3:nth-child(4) > a.form-button-secondary
 ##main.flex-1:nth-child(3) > div.full-container > div.mb-2lh:nth-child(4) > div:last-child > div.flex.flex-col.md\:flex-row.gap-2lh.md\:gap-lh > div.flex-1.min-w-0:last-child > div > div.inline-block.mr-3.mb-3:nth-child(6) > a.form-button-secondary.mb-lh
-###main-content > section.block_area.block_area_home:nth-child(5)
+
 
 ###app-ad
 uptimerobot.com###usercom-launcher-dot-frame
