@@ -38,3 +38,16 @@ cineby.app
 kinoking.cc
 plugins.exteragram.app
 exteragram.app
+
+
+## apple stuff
+is1-ssl.mzstatic.com
+music.apple.com
+play.itunes.apple.com
+blobstore.apple.com
+*.blobstore.apple.com
+universal-activity-service.itunes.apple.com
+aod-ssl.itunes.apple.com
+amp-api.music.apple.com
+buy.itunes.apple.com
+audio-ssl.itunes.apple.com
